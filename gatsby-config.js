@@ -1,6 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "edbennett.dev",
+    title: 'edbennett.dev',
+    siteUrl: 'https://edbennett.dev',
+    description: 'Personal Portfolio site coming soon'
   },
   plugins: [
     "gatsby-plugin-postcss",
